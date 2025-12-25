@@ -5,7 +5,7 @@ function Header() {
     <header className="header">
       <div className="container">
         <div className="header-top">
-          <a href="#" className="logo">RUNER</a>
+          <a href="#home" className="logo">RUNER</a>
           
           <nav>
             <ul className="nav-menu">
