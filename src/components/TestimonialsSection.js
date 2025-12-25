@@ -3,21 +3,21 @@ import React from 'react';
 function TestimonialsSection() {
   const testimonials = [
     {
-      text: 'Joining RUNER has been life-changing! The community support and professional coaching helped me complete my first marathon. I couldn\'t have done it without this amazing club.',
+      text: "Joining RUNER has been life-changing! The community support and professional coaching helped me complete my first marathon. I couldn't have done it without this amazing club.",
       author: 'Sarah Johnson',
       role: 'Marathon Runner',
       image: 'https://randomuser.me/api/portraits/women/44.jpg',
       rating: 5
     },
     {
-      text: 'The training programs are exceptional and the coaches really care about your progress. I\'ve improved my running time by 20% in just 6 months. Highly recommend RUNER to everyone!',
+      text: "The training programs are exceptional and the coaches really care about your progress. I've improved my running time by 20% in just 6 months. Highly recommend RUNER to everyone!",
       author: 'Michael Chen',
       role: 'Competitive Runner',
       image: 'https://randomuser.me/api/portraits/men/32.jpg',
       rating: 5
     },
     {
-      text: 'Best decision I ever made! The group runs are so motivating and the events are well-organized. I\'ve made lifelong friends here and discovered a true passion for running.',
+      text: "Best decision I ever made! The group runs are so motivating and the events are well-organized. I've made lifelong friends here and discovered a true passion for running.",
       author: 'Emma Williams',
       role: 'Recreational Runner',
       image: 'https://randomuser.me/api/portraits/women/68.jpg',
